@@ -1,0 +1,9 @@
+myapi/
+├── app.py                  # main FastAPI app
+├── models.py               # SQLAlchemy models
+├── schemas.py              # Pydantic models for request/response
+├── database.py             # database connection
+├── crud.py                 # CRUD operations
+├── requirements.txt        # dependencies
+├── venv/                   # virtual environment
+└── test.db                 # SQLite database
